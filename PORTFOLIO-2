@@ -1,5 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
+
 
 # In[4]:
 
@@ -194,9 +193,6 @@ try:
     print("• Budget Status   : ", "WITHIN LIMIT" if is_within_budget else "OVER LIMIT")
 except:
     print("❌ System Notice: Error encountered while generating summary")
-
-
-# In[ ]:
 
 
 
